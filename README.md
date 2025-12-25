@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Jholok
 
-<!--
-**JholokDev/JholokDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web Developer | Laravel & Front-End Specialist**
 
-Here are some ideas to get you started:
+I build clean, responsive, and scalable web applications with a strong focus on performance, usability, and maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+I’m Jholok (Noushed Ahmed Jholok), a web developer specializing in Laravel and front-end development. I enjoy turning designs into functional, user-friendly interfaces and building reliable web solutions using modern technologies.
+
+---
+
+## 🛠 Tech Stack
+- **Front-End:** HTML, CSS, JavaScript, Bootstrap  
+- **Back-End:** PHP, Laravel  
+- **Tools:** Git, GitHub, VS Code, Figma  
+
+---
+
+## 🚀 What I Do
+- Build scalable Laravel web applications  
+- Convert Figma designs to pixel-perfect HTML  
+- Create responsive and performance-optimized UI  
+
+---
+
+## 🎯 Motto
+**Clean code. Real results.**
+
+---
+
+📫 Feel free to explore my repositories and connect with me.
